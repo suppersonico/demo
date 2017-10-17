@@ -1,2 +1,8 @@
 * gitbasic
-
+** pull && push repository
+   1.git init //初始化本地仓库
+   2.git add //添加到本地仓库
+   3.git commit //提交信息
+   4.git remote add origin https: //远程仓库地址
+   5.git pull && push //拉和推
+   6.git push -u origin master //第一次到话用这个
